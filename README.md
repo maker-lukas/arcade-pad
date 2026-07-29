@@ -2,6 +2,12 @@
 
 > A small arcade pad to play your favorite retro games!
 
+---
+
+This is a small arcade pad i designed and built with hardware i already owned so some of the parts could be better but this is what i had. The layout is a 6x2 button arrangement which covers all the retro classics, plus i added 2 extra buttons on the side for pinball games!! The joystick is just a generic analog module and not a proper arcade joystick but it does the job. For the top panel i used plywood instead of printing it to save on filament and honestly it gives it a nice little look.
+
+for the brains it's running on a ESP32 C3 Super Mini which is not ideal because it doesn't support native USB HID, so i have to power it and connect over BLE bluetooth which adds some latency but its fine for what this is.
+
 ## Bill Of Material
 
 | Part                                         | Quantity | Price   | Link                                                            |
@@ -33,3 +39,11 @@ Replace `<port>` with your port (e.g. `COM3`, `/dev/ttyACM0`, `/dev/ttyUSB0`).
 | **Schematic**                      |
 |:----------------------------------:|
 | ![schematic](Images/schematic.png) |
+| **Angle View** |
+| ![angle view]() |
+| Bottom View |
+| ![bottom view]() |
+| Person Playing |
+| ![person playing]() |
+| Zine |
+| ![zine]() |
