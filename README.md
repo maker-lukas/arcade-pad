@@ -1,4 +1,4 @@
-# Arcade Pad
+# Pac Pad
 
 > A small arcade pad to play your favorite retro games!
 
@@ -36,14 +36,14 @@ Replace `<port>` with your port (e.g. `COM3`, `/dev/ttyACM0`, `/dev/ttyUSB0`).
 
 ## Overview
 
-| **Schematic**                      |
-|:----------------------------------:|
-| ![schematic](Images/schematic.png) |
-| **Angle View** |
-| ![angle view](Images/IMG_2803.JPG) |
-| **Top View** |
-| ![Top View](Images/IMG_2812.JPG) |
-| **Bottom View** |
+| **Schematic**                       |
+|:-----------------------------------:|
+| ![schematic](Images/schematic.png)  |
+| **Angle View**                      |
+| ![angle view](Images/IMG_2803.JPG)  |
+| **Top View**                        |
+| ![Top View](Images/IMG_2812.JPG)    |
+| **Bottom View**                     |
 | ![bottom view](Images/IMG_2810.JPG) |
-| **Zine** |
-| ![zine]() |
+| **Zine**                            |
+| ![zine](Images/zine.png)            |
