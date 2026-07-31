@@ -40,10 +40,10 @@ Replace `<port>` with your port (e.g. `COM3`, `/dev/ttyACM0`, `/dev/ttyUSB0`).
 |:----------------------------------:|
 | ![schematic](Images/schematic.png) |
 | **Angle View** |
-| ![angle view]() |
-| Bottom View |
-| ![bottom view]() |
-| Person Playing |
-| ![person playing]() |
-| Zine |
+| ![angle view](Images/IMG_2803.JPG) |
+| **Top View** |
+| ![Top View](Images/IMG_2812.JPG) |
+| **Bottom View** |
+| ![bottom view](Images/IMG_2810.JPG) |
+| **Zine** |
 | ![zine]() |
