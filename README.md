@@ -29,7 +29,7 @@ for the brains it's running on a ESP32 C3 Super Mini which is not ideal because 
 
 ```sh
 pip install esptool
-esptool.py --chip esp32c3 --port <port> write_flash 0x0 Firmware/Build/arcade-pad.ino.merged.bin
+esptool.py --chip esp32c3 --port <port> write_flash 0x0 Firmware/Build/pac-pad.ino.merged.bin
 
 Replace `<port>` with your port (e.g. `COM3`, `/dev/ttyACM0`, `/dev/ttyUSB0`).
 ```
